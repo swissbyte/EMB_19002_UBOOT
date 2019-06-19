@@ -1,0 +1,12 @@
+if TARGET_EVAL1A
+
+config SYS_BOARD
+	default "eval1a"
+
+config SYS_VENDOR
+	default "databyte.ch"
+
+config SYS_CONFIG_NAME
+	default "eval1a"
+
+endif

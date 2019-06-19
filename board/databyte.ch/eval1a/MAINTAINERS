@@ -1,0 +1,6 @@
+EVAL1A BOARD
+M:	C. Hediger <info@databyte.ch>
+S:	Maintained
+F:	board/databyte.ch/eval1a/
+F:	include/configs/eval1a.h
+F:	configs/eval1a_defconfig
